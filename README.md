@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DevGMM
+- 👋 Hi, I’m @DevGMM / Gustavo Marques Moreira
 - 👀 I’m interested in HTML, CSS, JAVASCRIPT, .NET, PYTHON
 - 🌱 I’m currently learning .NET and PYTHON
 - 💞️ I’m looking to collaborate on codes .Net and Python
